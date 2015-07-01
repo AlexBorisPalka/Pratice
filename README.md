@@ -1,4 +1,5 @@
-# Pratice
+# Pratice by Егоров Александр
+# 1. Установка CentOS на VMware
 1) Скачал VMware и CentOS
 
 2) Установка VMware
