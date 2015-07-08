@@ -189,16 +189,16 @@ AllowUsers admin
 
 Группу из четырёх параметров, отвечающих за аутентификацию Kerberos, оставляем без изменений – не раскомментированными.
 
-#KerberosAuthentication no
+ #KerberosAuthentication no
 
-#KerberosGetAFSToken no
+ #KerberosGetAFSToken no
 
-#KerberosOrLocalPasswd yes
+ #KerberosOrLocalPasswd yes
 
-#KerberosTicketCleanup yes
+ #KerberosTicketCleanup yes
 
 Следующие два закомментированных параметра отвечают за то, разрешена ли аутентификация пользователя на основе GSSAPI или нет.
 
-#GSSAPIAuthentication no
+ #GSSAPIAuthentication no
 
-#GSSAPICleanupCredentials yes
+ #GSSAPICleanupCredentials yes
