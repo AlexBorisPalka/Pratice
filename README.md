@@ -202,3 +202,19 @@ AllowUsers admin
  #GSSAPIAuthentication no
 
  #GSSAPICleanupCredentials yes
+ 
+ ![](http://i.imgur.com/RZaNyFR.png)
+
+# 3.3 Подключение с одной ВМ на другую
+
+Создаем вторую виртуальную машину, настройку проводим аналогично первой
+.
+Узнаем ip первой машины с помощью команды "ip a"
+
+теперь с помощью второй системы соединяемся первой машиной с помощью команды: 
+
+ssh name@ip
+
+![](http://i.imgur.com/4p3HSxj.png)
+
+
