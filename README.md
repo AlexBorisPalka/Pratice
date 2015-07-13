@@ -90,6 +90,10 @@ VMware Wokstation создает полностью изолированные �
   ![](http://i.imgur.com/71IcGXp.png)
   
   ![](http://i.imgur.com/Kvu2d8U.png)
+  
+  Доступ к паке network-scripts
+  
+  ![](http://i.imgur.com/NOIWmH3.png)
 
 # 2.3 Установка ПО
 
